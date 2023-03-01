@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-<!--
-**alvaromago/alvaromago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙌 I'm currently studying Web Development, that includes JAVA, HTML and CSS. In the next months I will also learn JavaScript and PHP 🔥
 
 Here are some facts about me that you can be interested about:
 
-- 🌱 I’m currently learning JAVA and HTML
+- 🧠 I’m currently learning JAVA and HTML
 - 📫 You can reach me at: aalvaromago@gmail.com
--->
+- ⚡ Fun fact: I love motorsport 🏎️💨
+
+If you have any question, be sure to contact me! 🤙
