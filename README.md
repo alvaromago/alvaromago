@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🙌 I'm currently studying Web Development, that includes JAVA, HTML and CSS. In the next months I will also learn JavaScript and PHP 🔥
+🙌 I'm currently studying Web Development, that includes JAVA, HTML & CSS. In the next months I will also learn JavaScript and PHP 🔥
 
 Here are some facts about me that you can be interested about:
 
