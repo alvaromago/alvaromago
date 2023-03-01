@@ -5,6 +5,7 @@
 Here are some facts about me that you can be interested about:
 
 - 🧠 I’m currently learning JAVA and HTML
+- 📚 I will also study React & Python
 - 📫 You can reach me at: aalvaromago@gmail.com
 - ⚡ Fun fact: I love motorsport 🏎️💨
 
