@@ -13,4 +13,4 @@ You can see the recap of my work below and also in my public repos 👀
 
 If you have any question, be sure to contact me! 🤙
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaromago)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaromago&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
