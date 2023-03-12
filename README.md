@@ -5,7 +5,7 @@
 ### 🗣️ About Me:
 
 - 🧠 I’m currently learning JAVA and HTML
-- 📚 I will also study React & Python
+- 📚 I will also study TypeScript & Python
 - 📫 You can reach me at: aalvaromago@gmail.com
 - ⚡ Fun fact: I love motorsport 🏎️💨
 
