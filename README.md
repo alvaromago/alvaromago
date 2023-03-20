@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🙌 I'm currently studying Web Development. In the next months I will also learn JavaScript and PHP 🔥
+🙌 I'm currently studying Web Development.
 
 ### 🗣️ About Me:
 
-- 🧠 I’m currently learning JAVA, JavaScript & SQL
+- 🧠 I’m currently learning Java, JavaScript & SQL
 - 📚 I will also study TypeScript & Python
 - 📫 You can reach me at: aalvaromago@gmail.com
 - ⚡ Fun fact: I love motorsport 🏎️💨
