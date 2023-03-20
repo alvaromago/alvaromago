@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-🙌 I'm currently studying Web Development. In the next months I'll learn JavaScript & PHP
-🔥 Languages I Can Use = {Java, HTML, CSS, MySQL}
+🙌 I'm currently studying Web Development. In the next months I'll learn JavaScript & PHP 🙌
+
 
 ### 🗣️ About Me:
 
-- 🧠 I’m currently learning Java, JavaScript % SQL 
-- 📚 I will also study C & Python
+- 🔥 Languages I Can Use = {Java, HTML, CSS, SQL}
+- 🧠 Languages I'm Learning = {Java, JavaScript & SQL}
+- 📚 I will also study C++ & Python
 - 📫 You can reach me at: aalvaromago@gmail.com
 - ⚡ Fun fact: I love motorsport 🏎️💨
 
