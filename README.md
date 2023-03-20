@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🙌 I'm currently studying Web Development. In the next months I'll learn JavaScript & PHP
-Languages I Can Use = {Java, HTML, CSS, MySQL}
+🔥 Languages I Can Use = {Java, HTML, CSS, MySQL}
 
 ### 🗣️ About Me:
 
