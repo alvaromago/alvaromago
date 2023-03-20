@@ -6,7 +6,7 @@
 ### 🗣️ About Me:
 
 - 🔥 Languages I Can Use = {Java, HTML, CSS, SQL}
-- 🧠 Languages I'm Learning = {Java, JavaScript & SQL}
+- 🧠 Languages I'm Learning = {Java, JavaScript, SQL & Python}
 - 📚 I will also study C++ & Python
 - 📫 You can reach me at: aalvaromago@gmail.com
 - ⚡ Fun fact: I love motorsport 🏎️💨
