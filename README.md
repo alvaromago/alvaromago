@@ -1,11 +1,11 @@
 # Hi there 👋
 
-### 🙌 I'm currently studying Web Development
+### 🙌 I'm currently studying Web Application Development
 
 ### 🗣️ About Me:
 
 - 🧠 Languages I'm learning: Java, JavaScript & Python
-- 📚 I will also study C# & PHP
+- 📚 I will also study PHP
 - 📫 You can reach me at: aalvaromago@gmail.com
 - ⚡ Fun fact: I love motorsport 🏎️💨
 
