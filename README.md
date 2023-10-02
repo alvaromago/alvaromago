@@ -1,4 +1,4 @@
-# <p align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></p>
+# <p align="center">Hi there <iframe src="https://giphy.com/embed/xT9IgG50Fb7Mi0prBC" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hello-hi-wave-xT9IgG50Fb7Mi0prBC">via GIPHY</a></p></p>
 
 ### 🙌 I'm currently studying Web Application Development
 
