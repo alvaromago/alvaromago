@@ -5,7 +5,6 @@
 ### 🗣️ About Me:
 
 - 🧠 Languages I'm learning: Java, JavaScript & PHP
-- 📚 I will also study PHP
 - 📫 You can reach me at: aalvaromago@gmail.com
 - ⚡ Fun fact: I love motorsport 🏎️💨
 
