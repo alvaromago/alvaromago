@@ -21,5 +21,3 @@ If you have any question, be sure to contact me! 🤙
 
 ## <p align="center">📊 Stats</p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaromago&theme=dark&layout=compact&langs_count=6" alt="alvaromago" /> </p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alvaromago&label=Profile Views" alt="alvaromago" /> </p>
