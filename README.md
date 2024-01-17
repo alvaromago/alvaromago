@@ -5,6 +5,7 @@
 ### 🗣️ About Me:
 
 - 🧠 Languages I'm learning: Java, JavaScript & PHP
+- ☁️ Also learning Salesforce: https://www.salesforce.com/trailblazer/alvaromago
 - 📫 You can reach me at: aalvaromago@gmail.com
 - ⚡ Fun fact: I love motorsport 🏎️💨
 
