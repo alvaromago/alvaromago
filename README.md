@@ -6,7 +6,7 @@
 
 - 🧠 Languages I'm learning: Java, JavaScript & PHP
 - ☁️ Also learning Salesforce: https://www.salesforce.com/trailblazer/alvaromago
-  and Azure: https://learn.microsoft.com/es-es/users/alvaromago/
+- ❇️ And Azure: https://learn.microsoft.com/es-es/users/alvaromago/
 - 📫 You can reach me at: aalvaromago@gmail.com
 - ⚡ Fun fact: I love motorsport 🏎️💨
 
