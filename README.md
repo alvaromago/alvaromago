@@ -1,6 +1,6 @@
-# <p align="center">Hi there</p>
+# <p align="center">Hi there 👋</p>
 
-### 🙌 My name is Alvaro. I'm a Spanish Web Developer.
+### My name is Alvaro. I'm a Spanish Web Developer.
 
 ### 🗣️ About Me:
 
