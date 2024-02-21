@@ -12,7 +12,7 @@ You can see the recap of my work below and also in my public repos 👀
 
 If you have any question, be sure to contact me! 🤙
 
-## <p align="center" style="margin-top:100px;">🛠️ Languages and Tools</p>
+## <p align="center">🛠️ Languages and Tools</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,html,css,ts,mysql,mongodb,py,php,angular,nodejs,git,eclipse,vscode,bootstrap" />
