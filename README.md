@@ -5,7 +5,7 @@
 ### 🗣️ About Me:
 
 - 🧠 Languages I'm learning: Java, JavaScript & PHP
-- 📫 You can reach me at aalvaromago@gmail.com or find me on <a href="https://www.linkedin.com/in/%C3%A1lvaro-antonio-mart%C3%ADn-gonz%C3%A1lez-11750b252/">LinkedIn</a>
+- 📫 You can reach me at aalvaromago@gmail.com or find me on <a href="https://www.linkedin.com/in/%C3%A1lvaro-antonio-mart%C3%ADn-gonz%C3%A1lez-11750b252/" target="_blank">LinkedIn</a>
 - ⚡ Fun fact: I love motorsport 🏎️💨
 
 You can see the recap of my work below and also in my public repos 👀
