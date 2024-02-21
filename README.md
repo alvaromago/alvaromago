@@ -1,6 +1,7 @@
 # <p align="center">Hi there 👋</p>
 
-### 🗣️ My name is Alvaro. Full Stack Developer.
+### 🗣️ My name is Alvaro. 
+#### Full Stack Developer.
 
 - 📫 You can reach me at aalvaromago@gmail.com or find me on <a href="https://www.linkedin.com/in/%C3%A1lvaro-antonio-mart%C3%ADn-gonz%C3%A1lez-11750b252/">LinkedIn</a>
 - ⚡ Fun fact: I love motorsport 🏎️💨
