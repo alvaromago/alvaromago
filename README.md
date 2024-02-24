@@ -1,6 +1,6 @@
 # <p align="center">Hi there 👋</p>
 
-### Junior Full Stack Developer
+### <p align="center">Junior Full Stack Developer</p>
 
 - 📫 You can reach me at aalvaromago@gmail.com or find me on <a href="https://www.linkedin.com/in/aalvaromago">LinkedIn</a>
 - ⚡ Fun fact: I love motorsport 🏎️💨
