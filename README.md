@@ -1,4 +1,4 @@
-# <p align="center">Hi there 👋</p>
+# <p align="center">Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" />👋</p>
 
 ### <p align="center">Junior Full Stack Developer</p>
 
