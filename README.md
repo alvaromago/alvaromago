@@ -8,7 +8,7 @@
 </div>
 
 
-- 📫 You can reach me at aalvaromago@gmail.com or find me on <a href="https://www.linkedin.com/in/aalvaromago">LinkedIn</a>
+- 📫 You can reach me at aalvaromago@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/aalvaromago) <a href="https://www.linkedin.com/in/aalvaromago">LinkedIn</a>
 - ⚡ Fun fact: I love motorsport 🏎️💨
 
 You can see the recap of my work below and also in my public repos 👀
