@@ -1,14 +1,14 @@
 # <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" /></h1>
 
 ### <h3 align="center">**Junior Full Stack Developer**</h3>
-<div align="center" width="50%">
+<p align="center">
 
   `Highly driven and focused developer. Open-minded and critical thinking combined with problem solving and teamwork sums up my skills.`
   
-</div>
+</p>
 
 
-- 📫 You can reach me at aalvaromago@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/aalvaromago) <a href="https://www.linkedin.com/in/aalvaromago">LinkedIn</a>
+- 📫 You can reach me at aalvaromago@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/aalvaromago)
 - ⚡ Fun fact: I love motorsport 🏎️💨
 
 You can see the recap of my work below and also in my public repos 👀
