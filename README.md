@@ -1,6 +1,6 @@
 # <p align="center">Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" /></p>
 
-### <p align="center">Junior Full Stack Developer</p>
+### <p align="center">Junior Full Stack Developer 👨🏻‍💻</p>
 
 - 📫 You can reach me at aalvaromago@gmail.com or find me on <a href="https://www.linkedin.com/in/aalvaromago">LinkedIn</a>
 - ⚡ Fun fact: I love motorsport 🏎️💨
