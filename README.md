@@ -3,7 +3,7 @@
 ### <h3 align="center">**Junior Full Stack Developer**</h3>
 <div align="center">
 
-  `Highly driven and focused developer. Open-minded and critical thinking combined with problem solving and teamwork skills sums up my skills.`
+  `Highly driven and focused developer. Open-minded and critical thinking combined with problem solving and teamwork sums up my skills.`
   
 </div>
 
