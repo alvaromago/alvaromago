@@ -1,6 +1,6 @@
-# <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" /></h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" /></h1>
 
-### <h3 align="center">**Junior Full Stack Developer**</h3>
+<h3 align="center">**Junior Full Stack Developer**</h3>
 <div align="center">
 
   `Highly driven and focused developer. Open-minded and critical thinking combined with problem solving and teamwork sums up my skills.`
