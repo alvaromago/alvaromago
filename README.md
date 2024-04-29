@@ -18,7 +18,7 @@ If you have any question, be sure to contact me! 🤙
 ## <p align="center">🛠️ Languages and Tools</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,bootstrap,java,php,nodejs,python,mysql,mongodb,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,tailwind,bootstrap,java,php,nodejs,python,mysql,mongodb,git" />
   </a>
 </p>
 
