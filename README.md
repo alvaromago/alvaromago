@@ -9,7 +9,7 @@
 
 
 - 📫 You can reach me at aalvaromago@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/aalvaromago)
-- 🚗 You can visit my first web proyect at [CarRentalHub](https://car-rental-react-web.vercel.app/) 
+- 🚗 You can visit my first web project at [CarRentalHub](https://car-rental-react-web.vercel.app/) 
 - ⚡ Fun fact: I love motorsport 🏎️💨
 
 You can see the recap of my work below and also in my public repos 👀
